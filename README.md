@@ -7,7 +7,7 @@
 
 I am a fresher Junior Java developer. I am a Web & Android Developer in backend development by  Spring-MVC, Spring-Boot and Android using Java.
 
-Skills: Java/Spring-framework/Spring-boot/Android/Docker/Linux
+Skills: Java/Spring-framework/Spring-boot/Android/Docker/Linux/Vaadin/Angular
 
 - 🔭 I’m currently working on Self-Learning 
 - 🌱 I’m currently learning java 
@@ -19,9 +19,7 @@ Skills: Java/Spring-framework/Spring-boot/Android/Docker/Linux
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlaminRonya)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminRonya)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaminRonya&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminRonya&layout=compact)](https://github.com/AlaminRonya/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlaminRonya)  
 
