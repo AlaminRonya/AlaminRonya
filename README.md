@@ -5,7 +5,7 @@
 #### Jr. Java Developer
 
 
-I am a fresher Junior Java developer. I am a Web & Android Developer in backend development by  Spring-MVC, Spring-Boot and Android using Java.
+I am a Java developer. I am a Web & Android Developer in backend development by  Spring-MVC, Spring-Boot and Android using Java.
 
 Skills: Java/Spring-framework/Spring-boot/Android/Docker/Linux/Vaadin/Angular
 
