@@ -1,5 +1,5 @@
 
-![Jr. Java Developer](https://media-exp1.licdn.com/dms/image/C4E16AQF7tzg7DPWKow/profile-displaybackgroundimage-shrink_350_1400/0/1632582653356?e=1668038400&v=beta&t=5Kmh0js6WwHKM9EfQmfmLJpxRPNKYY543ZTWSr2qRmc)
+![Java Developer](https://media-exp1.licdn.com/dms/image/C4E16AQF7tzg7DPWKow/profile-displaybackgroundimage-shrink_350_1400/0/1632582653356?e=1668038400&v=beta&t=5Kmh0js6WwHKM9EfQmfmLJpxRPNKYY543ZTWSr2qRmc)
 
 ### Hi there 👋, I'm Md. Al Amin
 #### Jr. Java Developer
@@ -25,4 +25,4 @@ Skills: Java/Spring-framework/Spring-boot/Android/Docker/Linux/Vaadin/Angular
 
 ![GitHub metrics](https://metrics.lecoq.io/AlaminRonya)  
 
-![Profile views](https://gpvc.arturio.dev/AlaminRonya)  
+![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/AlaminRonya&query=$.followers&label=Profile%20Views)
