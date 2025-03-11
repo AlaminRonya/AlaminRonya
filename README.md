@@ -26,5 +26,6 @@ Skills: Java/Spring-framework/Spring-boot/Android/Docker/Linux/Vaadin/Angular
 ![GitHub metrics](https://metrics.lecoq.io/AlaminRonya)  
 
 ![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/AlaminRonya&query=$.followers&label=Profile%20Views)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlaminRonya)](https://git.io/streak-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaminRonya)](https://github.com/ashutosh00710/github-readme-activity-graph)
