@@ -2,12 +2,12 @@
 ![Java Developer](https://media-exp1.licdn.com/dms/image/C4E16AQF7tzg7DPWKow/profile-displaybackgroundimage-shrink_350_1400/0/1632582653356?e=1668038400&v=beta&t=5Kmh0js6WwHKM9EfQmfmLJpxRPNKYY543ZTWSr2qRmc)
 
 ### Hi there 👋, I'm Md. Al Amin
-#### Jr. Java Developer
+#### Java Developer
 
 
 I am a Java developer. I am a Web & Android Developer in backend development by  Spring-MVC, Spring-Boot and Android using Java.
 
-Skills: Java/Spring-framework/Spring-boot/Android/Docker/Linux/Vaadin/Angular
+Skills: Core-Java/OOP/Core-Thread/Spring-framework/Spring-boot/Android/Docker/Linux/Vaadin/Angular
 
 - 🔭 I’m currently working on Self-Learning 
 - 🌱 I’m currently learning java 
