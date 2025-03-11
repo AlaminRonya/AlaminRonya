@@ -20,12 +20,12 @@ Skills: Java/Spring-framework/Spring-boot/Android/Docker/Linux/Vaadin/Angular
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlaminRonya)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminRonya&layout=compact)](https://github.com/AlaminRonya/github-readme-stats)
+### 📌 GitHub Activity Graph  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaminRonya&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlaminRonya)  
 
-![GitHub metrics](https://metrics.lecoq.io/AlaminRonya)  
 
-![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/AlaminRonya&query=$.followers&label=Profile%20Views)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlaminRonya)](https://git.io/streak-stats)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaminRonya)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaminRonya&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
